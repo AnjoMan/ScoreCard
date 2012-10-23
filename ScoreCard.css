@@ -1,0 +1,29 @@
+div.container {
+	background: #E8E8E8;
+	border-radius: 8px;
+	border: gray 1px solid;
+	padding: 10px;
+	overflow:auto;
+	}
+div.total {
+	border-bottom: black 2px solid
+	}
+div.score {
+	float:right;
+	clear:right;
+	}
+div.player{
+	float: left;
+	margin: 0px 4px 0px 4px;
+	width: 60px;
+	}
+.addScore {
+	float: left;
+	}
+.fixedCursor {
+	cursor: default;
+	}
+#addPlayer {
+	float: right;
+}
+	
